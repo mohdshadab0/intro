@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-development (front-end);
 - 🌱 I’m currently learning node.js (Mca student)
 - 💞️ I’m looking to collaborate on (full stack projects)
-- 📫 How to reach me (iant.shadab@gmail.com
+- 📫 How to reach me (iant.shadab@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
